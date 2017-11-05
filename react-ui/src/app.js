@@ -89,7 +89,7 @@ class App extends Component {
         </div>
 
         <div className="footer">
-       <a href="https://github.com/heroku/einstein-vision-node">Community</a>
+       <a href="https://github.com/heroku/einstein-vision-node">or visit our Community for reviews</a>
         //  <a href="https://metamind.readme.io/v1/docs">API Docs</a>
         </div>
       </div>
