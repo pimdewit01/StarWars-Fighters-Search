@@ -89,7 +89,7 @@ class App extends Component {
         </div>
 
         <div className="footer">
-       <a href="https://sdodemo-main-15f10ba49d0.force.com/starwars">or visit our Community for reviews</a>
+       <a href="https://sdodemo-main-15f10ba49d0.force.com/shop">or visit our Community for reviews</a>
 
         </div>
       </div>
