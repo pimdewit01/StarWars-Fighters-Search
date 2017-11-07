@@ -29,7 +29,6 @@ class App extends Component {
         <div className="title">
           <h1 className="intro">
              Find your Starfighter
-             <div className="detail">using Einstein Vision</div>
           </h1>
         </div>
         <div className={classNames(
