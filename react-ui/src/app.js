@@ -28,7 +28,7 @@ class App extends Component {
       <div>
         <div className="title">
           <h1 className="intro">
-             Find your Starfighter
+             Find your Retro Car
           </h1>
         </div>
         <div className={classNames(
