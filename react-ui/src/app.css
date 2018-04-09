@@ -12,7 +12,7 @@ h2, h3, p {
 
 .title {
   margin: 0 2rem;
-  color: #FFF;
+  color: #000;
   text-align: center;
 }
 
@@ -44,11 +44,11 @@ h1 {
 .app {
   text-align: center;
   /*background-color:#07b;*/
-  background-color:#000;
+  background-color:#fff;
   transition: background 2s ease-in-out;
 }
 .app-with-image{
-  background-color: #000;
+  background-color: #fff;
 }
 
 .app .initial-dropzone {
@@ -131,12 +131,12 @@ h1 {
   text-align: center;
   width:100%;
   background-color: #000;
-  color: #ffffff
+  color: #000
 }
 
 .footer a {
   display:inline-block;
   margin:1rem;
-  background-color: #000;
+  background-color: #fff;
   color:#777;
 }
